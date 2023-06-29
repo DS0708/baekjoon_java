@@ -1,0 +1,14 @@
+#maven
+**/target/
+**/build/
+**/out/
+
+#eclipse
+**/.settings
+**/.metadata/
+**/.classpath
+**/.project
+**/bin/
+
+#macOS
+.DS_Store
