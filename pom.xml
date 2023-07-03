@@ -16,5 +16,6 @@
   	<module>Conditional_Sentence</module>
   	<module>Repetitive_Statement</module>
   	<module>One_dimension_Array</module>
+  	<module>String_</module>
   </modules>
 </project>
