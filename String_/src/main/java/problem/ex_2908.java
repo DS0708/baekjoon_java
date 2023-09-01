@@ -20,7 +20,6 @@ public class ex_2908 {
 				break;
 			}
 			else {
-				System.out.println("else");
 				max = num2;
 				break;
 			}

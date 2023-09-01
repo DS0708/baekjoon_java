@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Repetitive_Statement" />
+        <module name="InOut_And_ArithmeticOperations" />
+        <module name="String_" />
+        <module name="Conditional_Sentence" />
+        <module name="One_dimension_Array" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -12,7 +12,7 @@ public class ex_2480 {		//I don't Know why this code is wrong ; ; ; ;;; then pas
 //		if(first != second && second != third && first != third) {	//All different
 ////			System.out.println(max(first,second,third)*100);
 //			int max;
-//			if(first>second) {
+//			if(first>second) {®
 //				if (first>third) max = first;
 //				else max=third;
 //			}else {

@@ -10,6 +10,7 @@ public class ex_129881 {
 		int x= scan.nextInt();
 		int y= scan.nextInt();
 		
+		
 		if (x*y > 0) {
 			if(x>0) System.out.println(1);
 			else System.out.println(3);
