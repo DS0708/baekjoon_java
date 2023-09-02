@@ -17,5 +17,6 @@
   	<module>Repetitive_Statement</module>
   	<module>One_dimension_Array</module>
   	<module>String_</module>
+      <module>Advanced01</module>
   </modules>
 </project>

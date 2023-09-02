@@ -10,6 +10,7 @@
         <module name="InOut_And_ArithmeticOperations" />
         <module name="String_" />
         <module name="Conditional_Sentence" />
+        <module name="Advanced01" />
         <module name="One_dimension_Array" />
       </profile>
     </annotationProcessing>
