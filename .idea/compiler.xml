@@ -7,11 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Repetitive_Statement" />
-        <module name="InOut_And_ArithmeticOperations" />
         <module name="String_" />
+        <module name="two_dimensional_array" />
         <module name="Conditional_Sentence" />
-        <module name="Advanced01" />
         <module name="One_dimension_Array" />
+        <module name="InOut_And_ArithmeticOperations" />
+        <module name="Advanced01" />
       </profile>
     </annotationProcessing>
   </component>

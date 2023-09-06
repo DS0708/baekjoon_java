@@ -18,5 +18,6 @@
   	<module>One_dimension_Array</module>
   	<module>String_</module>
       <module>Advanced01</module>
+      <module>two_dimensional_array</module>
   </modules>
 </project>
