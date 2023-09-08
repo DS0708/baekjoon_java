@@ -19,5 +19,6 @@
   	<module>String_</module>
       <module>Advanced01</module>
       <module>two_dimensional_array</module>
+      <module>general_math01</module>
   </modules>
 </project>

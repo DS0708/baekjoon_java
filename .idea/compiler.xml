@@ -13,6 +13,7 @@
         <module name="One_dimension_Array" />
         <module name="InOut_And_ArithmeticOperations" />
         <module name="Advanced01" />
+        <module name="general_math01" />
       </profile>
     </annotationProcessing>
   </component>
