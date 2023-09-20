@@ -21,5 +21,6 @@
       <module>two_dimensional_array</module>
       <module>general_math01</module>
       <module>Factors_Multiples_Decimals</module>
+      <module>rectangle_and_triangle</module>
   </modules>
 </project>

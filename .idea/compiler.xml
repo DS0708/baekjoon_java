@@ -10,6 +10,7 @@
         <module name="String_" />
         <module name="two_dimensional_array" />
         <module name="Conditional_Sentence" />
+        <module name="rectangle_and_triangle" />
         <module name="One_dimension_Array" />
         <module name="InOut_And_ArithmeticOperations" />
         <module name="Advanced01" />
