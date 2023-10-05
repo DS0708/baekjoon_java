@@ -9,6 +9,7 @@
         <module name="Repetitive_Statement" />
         <module name="String_" />
         <module name="time_complexity" />
+        <module name="brute_force" />
         <module name="two_dimensional_array" />
         <module name="Conditional_Sentence" />
         <module name="rectangle_and_triangle" />

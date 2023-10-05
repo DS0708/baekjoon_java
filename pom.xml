@@ -23,5 +23,6 @@
       <module>Factors_Multiples_Decimals</module>
       <module>rectangle_and_triangle</module>
       <module>time_complexity</module>
+      <module>brute_force</module>
   </modules>
 </project>
